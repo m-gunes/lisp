@@ -1,0 +1,7 @@
+﻿lisp te değişkenlerin tipleri yok. tipsiz
+
+prefix notation var.ex: (+ 5 10)
+
+(+ 1 (+ 1 (+ 1 1) 2) 3 4 5) // en içteki parantezden başla
+
+define is assignment statement. bir değişkeni tamımlamak içinkullanılır. 
